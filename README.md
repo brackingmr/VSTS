@@ -1,5 +1,5 @@
-# VSTS
-This repository hold the code for front end web dec of buy r here web srv
+# buyrtherewebsrv
+master branch front end web dev public site buyrighthere dot com. 
 
 thank you for stoping by
 
